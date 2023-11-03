@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cleverdev79
 - 👀 I’m interested in Game development, AR/VR development.
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on (nothing in mind)
+- 💞️ I’m looking to collaborate on (nothing in mind for now)
 - 📫 How to reach me(N/A for now)
 
 <!---
